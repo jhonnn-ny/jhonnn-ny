@@ -29,7 +29,7 @@ AWS Certified Cloud Practitioner
 AWS Re/Start Graduate
 
 ---
-## 🚀 Tecnologias & Ferramentas
+##  Tecnologias & Ferramentas
 
 ![Skills](https://skillicons.dev/icons?i=aws,linux,docker,terraform,git,github,python,bash)
 
